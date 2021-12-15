@@ -1,0 +1,27 @@
+﻿@page "/encuentranos"
+@inject IJSRuntime JSRuntime
+
+<div class="all-page-title page-breadcrumb-contacto">
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Encuentranos</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="map" class="map-full"></div>
+
+@code{
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JSRuntime.InvokeVoidAsync("initialize", null);
+            StateHasChanged();
+        }
+
+    }
+}

@@ -10,7 +10,6 @@ C:\Users\luism\Desktop\ElCortijo\ElCortijo\bin\Debug\net5.0\ref\ElCortijo.dll
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\bin\Debug\net5.0\ElCortijo.pdb
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\bin\Debug\net5.0\ElCortijo.Views.dll
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\bin\Debug\net5.0\ElCortijo.Views.pdb
-C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.csproj.AssemblyReference.cache
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.AssemblyInfoInputs.cache
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.AssemblyInfo.cs
@@ -18,10 +17,6 @@ C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.csproj.Cor
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.RazorComponent.input.cache
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
-C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
-C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
-C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
-C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
@@ -31,14 +26,9 @@ C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.TagHelpers
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.TagHelpers.output.cache
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.RazorCoreGenerate.cache
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\App.razor.g.cs
-C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
-C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
-C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
-C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
-C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.RazorAssemblyInfo.cache
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.RazorAssemblyInfo.cs
@@ -56,3 +46,21 @@ C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ref\ElCortijo.dll
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.pdb
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.genruntimeconfig.cache
 C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\ElCortijo.csproj.CopyComplete
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Pages\Encuentranos.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Pages\Galeria.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Pages\Inicio.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Pages\Japones.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Pages\Mexicano.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Pages\Sobre Nosotros.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Pages\Staff.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\Encuentranos.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\Galeria.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\Inicio.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\Japones.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\Mexicano.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\Sobre Nosotros.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Pages\Staff.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Shared\FooterMain.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Shared\FooterMain.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\RazorDeclaration\Shared\Info.razor.g.cs
+C:\Users\luism\Desktop\ElCortijo\ElCortijo\obj\Debug\net5.0\Razor\Shared\Info.razor.g.cs

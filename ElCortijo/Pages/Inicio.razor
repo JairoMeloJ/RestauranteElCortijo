@@ -1,0 +1,108 @@
+﻿@page "/"
+
+    <link rel="stylesheet" src="" />
+
+    <div id="slides" class="cover-slides">
+        <ul class="slides-container">
+            <li class="text-center">
+                <img src="Imagenes/slider-01.jpg" alt="Informacion">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="m-b-20"><strong>Bienvenido a <br /> el Cortijo</strong></h1>
+                            <p class="m-b-40">Aqui podra encontrar el menu de la casa <br /> junto a informacion sobre nosotros.</p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="text-center">
+                <img src="Imagenes/slider-mexicana.jpg" alt="Comida Mexicana">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="m-b-20"><strong>Comida <br /> Mexicana</strong></h1>
+                            <p class="m-b-40">Comida mexicana, bajo la dirección del Chef Niño, pionero en RD.</p>
+                            <p><a class="btn btn-lg btn-circle btn-outline-new-white" href="mexicano">Ver carta</a></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="text-center">
+                <img src="Imagenes/slider-japones.jpg" alt="Comida Japonesa">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="m-b-20"><strong>Comida <br /> Japonesa</strong></h1>
+                            <p class="m-b-40"> Nuevo en nuestro menú, comida japonesa.</p>
+                            <p><a class="btn btn-lg btn-circle btn-outline-new-white" href="japones">Ver carta</a></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        <div class="slides-navigation slide">
+            <a href="#" class="next" id="next-button"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+            <a href="#" class="prev" id="previous-button"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+        </div>
+    </div>
+
+    <Info />
+
+    <div class="qt-box qt-background-inicio">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 ml-auto mr-auto text-left">
+                    <p class="lead ">
+                        " La comida muy rica, un lugar perfecto para conversar y pasar un momento agradable. "
+                    </p>
+                    <span class="lead">Mariela Montaño</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="customer-reviews-box">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="heading-title text-center">
+                        <h2>Reseñas de clientes</h2>
+                        <p>Todas las reseñas</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-8 mr-auto ml-auto text-center">
+                    <div id="reviews" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner mt-4">
+                            <div class="carousel-item text-center active">
+                                <div class="img-box p-1 border rounded-circle m-auto">
+                                    <img class="d-block w-100 rounded-circle" src="Imagenes/cliente-01.png" alt="Garvy Cliente">
+                                </div>
+                                <h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Garvy Guerrero</strong></h5>
+                                <h6 class="text-dark m-0">Cliente</h6>
+                                <p class="m-0 pt-3">Excelente lugar para comer buena comida mexicana.</p>
+                            </div>
+                            <div class="carousel-item text-center">
+                                <div class="img-box p-1 border rounded-circle m-auto">
+                                    <img class="d-block w-100 rounded-circle" src="Imagenes/cliente-01.png" alt="Liliana Cliente">
+                                </div>
+                                <h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Liliana Cruz Pichardo</strong></h5>
+                                <h6 class="text-dark m-0">Cliente</h6>
+                                <p class="m-0 pt-3">Excelente ubicacion...rica comida. 100%recomendado.</p>
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#reviews" role="button" data-slide="prev">
+                            <i class="fa fa-angle-left" aria-hidden="true"></i>
+                            <span class="sr-only">Anterior</span>
+                        </a>
+                        <a class="carousel-control-next" href="#reviews" role="button" data-slide="next">
+                            <i class="fa fa-angle-right" aria-hidden="true"></i>
+                            <span class="sr-only">Proximo</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
